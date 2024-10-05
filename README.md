@@ -12,6 +12,10 @@ I'm a passionate developer with experience in frontend development, machine lear
 
 Here's a list of some of the projects I've been working on:
 
+### 🔹 [HackDavis 2024 - MatraAI](https://github.com/XzeraSpartan/hackDavis-2024)
+- Built complete frontend of an interactive hackathon project built to assist users in generating real-time audio responses from AI, focusing on accessibility and real-time feedback during voice interactions. Won **Best Interactive Hack** at HackDavis 2024.
+
+
 ### 🔹 [employee-promotion-ML](https://github.com/suhaasteja/employee-promotion-ML)
 - A predictive model for determining the likelihood of employee promotions based on performance metrics and job history.
 
