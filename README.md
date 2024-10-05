@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Suhaas Teja Vijjagiri!
+# 👋 Hi there, I'm Suhaas!
 
 I'm a passionate developer with experience in frontend development, machine learning, and bioinformatics. I enjoy solving complex problems, building creative web applications, and contributing to open-source projects.
 
